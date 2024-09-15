@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! I'm João 👋
 
-<!--
-**Oaorotti/Oaorotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About me:
+- 🎮 Passionate about **game development**, always exploring new ideas in the **gamedev** universe.
+- 🌐 Enthusiast of **web development**, aiming to create elegant and functional solutions.
+- 📚 Always eager to learn, constantly improving my skills and discovering new technologies.
 
-Here are some ideas to get you started:
+### 🚀 Goals:
+- Finish projects that involve **games** and **web development**.
+- Keep growing as a developer, always seeking new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I often work with:
+- **Languages:** C++, JavaScript, Go, HTML, CSS
+- **Game Engines:** Godot, Unity, (my own engine!)
+
+Let's connect! Feel free to explore my projects and collaborate!
